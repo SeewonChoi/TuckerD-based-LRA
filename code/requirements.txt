@@ -1,0 +1,6 @@
+scipy==1.8.0
+opencv-python==4.5.5.62
+h5py==3.6.0
+torch==1.11.0
+argparse==1.1
+tensorly==0.7.0
